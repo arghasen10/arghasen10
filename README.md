@@ -1,10 +1,9 @@
 ### Hi there, I'm [Argha][website] Sen  👋
 
-## I'm a Researcher, Developer, and Socialist!!
+## I'm a Researcher & Developer!!
 
 - 👯 I’m looking to contribute more on Open Source Projects.
 - 🥅 2021 Goals: Publish at least 4 Research Papers.
-- ☭🚩 Watching News makes me more Socialist everyday 🤭
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
