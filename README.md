@@ -1,4 +1,4 @@
-### Hi there, I'm Argha Sen [Argha][website] 👋
+### Hi there, I'm [Argha][website] Sen  👋
 
 ## I'm a Researcher, Developer, and Socialist!!
 
