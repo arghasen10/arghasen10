@@ -2,9 +2,6 @@
 
 ## I'm a Researcher & Developer!!
 
-- 👯 I’m looking to contribute more on Open Source Projects.
-- 🥅 2021 Goals: Publish at least 4 Research Papers.
-
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
