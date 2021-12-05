@@ -35,6 +35,12 @@
 
 </details>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghasen10&show_icons=true&locale=en&layout=compact" alt="arghasen10" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arghasen10&show_icons=true&locale=en" alt="arghasen10" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arghasen10&" alt="arghasen10" /></p>
+
 [website]: https://arghasen10.github.io/
 [youtube]: https://www.youtube.com/channel/UCsw6J7cMixultF4BwNk9NPQ
 [instagram]: https://www.instagram.com/arghasen10/
