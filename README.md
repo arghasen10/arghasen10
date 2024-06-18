@@ -51,3 +51,4 @@ I am presently pursuing Ph.D. in the Department of Computer Science and Engineer
 [github]: https://github.com/
 [terminal]: https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners#:~:text=To%20open%20the%20terminal%2C%20press,it%2C%20but%20this%20is%20better!
 [latex]: https://www.latex-project.org/
+[twitter]: https://twitter.com/argha_sen10
